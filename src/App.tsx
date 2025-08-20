@@ -1,12 +1,11 @@
+import { Header } from "./components/headert";
+
 function App() {
   
 
   return (
     <>
-      <h1>Revisão cp01</h1>
-
-      <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi dolorum aspernatur est, deleniti illo alias voluptas iste dolore quos! Cum ex eius quos neque. Autem obcaecati eos voluptate officiis reprehenderit.
-      </p>
+      <Header/>
     </>
   );
 }
